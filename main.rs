@@ -1,0 +1,1 @@
+let a_upper: char = 'a'.to_uppercase();
